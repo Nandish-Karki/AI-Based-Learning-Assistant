@@ -1,0 +1,42 @@
+certifi==2025.6.15
+charset-normalizer==3.4.2
+idna==3.10
+numpy==2.2.6
+requests==2.32.4
+urllib3==2.5.0
+flask==3.0.0
+flask-cors==4.0.0
+bcrypt==4.0.1
+firebase_admin
+google-cloud-firestore
+python-jose
+pdfplumber
+python-docx
+chromadb
+langchain
+PyMuPDF
+python-docx
+sentence_transformers
+ollama
+google-generativeai
+ftfy
+spacy
+textstat
+sentence_transformers
+
+
+
+# Core
+Django>=5.0,<6.0
+requests>=2.31.0
+python-dotenv>=1.0.1
+
+# Static files in production (optional but recommended if serving via Django)
+# whitenoise>=6.6.0
+
+# Prod server (optional if you’ll run behind gunicorn)
+# gunicorn>=21.2.0
+
+# If you plan to use Postgres in production (optional)
+# psycopg2-binary>=2.9.9
+# dj-database-url>=2.1.0

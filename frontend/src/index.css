@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Optional: Add custom global styles here if needed, but prefer Tailwind classes */
+body {
+  font-family: 'Inter', 'Poppins', sans-serif;
+  @apply bg-background-light text-gray-800; /* Apply Tailwind background and text color */
+}
