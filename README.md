@@ -1,7 +1,7 @@
 # AI-Based-Learning-Assistant
 
 
-AI-Based-Learning-Assistant Tutor is a full-stack learning assistant that turns user documents into interactive study modules. Users upload PDFs/DOCX files, the backend cleans and chunks them, stores the content in Firebase + ChromaDB, and exposes workflows such as semantic search, RAG-powered Q&A, note taking, personalized roadmaps, and AWS Polly audio narration. A React dashboard wraps the entire experience.
+AI-Based-Learning-Assistant  is a full-stack learning assistant that turns user documents into interactive study modules. Users upload PDFs/DOCX files, the backend cleans and chunks them, stores the content in Firebase + ChromaDB, and exposes workflows such as semantic search, RAG-powered Q&A, note taking, personalized roadmaps, and AWS Polly audio narration. A React dashboard wraps the entire experience.
 
 ---
 
