@@ -201,12 +201,5 @@ During development, keep both the CRA dev server and Flask API running; CRA prox
 - **AWS / Firebase credentials** – Keep `.aws/` and `firebase_token.json` outside version control (already covered in `.gitignore`); rotate keys regularly.
 
 ---
-
-## Next Steps
-
-- Commit this README and keep it updated as the feature set grows.
-- Add automated tests or linting scripts once available.
-- Move hard-coded secrets (e.g., JWT secret, bucket names) into environment variables for production builds.
-
 Happy hacking!
 
